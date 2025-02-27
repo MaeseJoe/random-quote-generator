@@ -184,3 +184,5 @@ bower_components
 psd
 thumb
 sketch
+
+*.properties
